@@ -13,7 +13,7 @@ Find more examples and usage instructions over at:
 
 [facebook.github.io/imgur](http://facebook.github.io/imgur)
 
-# mixdown
+# Camera
 
 BSD License
 
